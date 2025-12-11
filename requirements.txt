@@ -1,6 +1,2 @@
-pyrogram==2.0.106
-tgcrypto==1.2.5
 requests==2.32.3
-faker==25.8.0
 colorama==0.4.6
-aiohttp==3.9.5
